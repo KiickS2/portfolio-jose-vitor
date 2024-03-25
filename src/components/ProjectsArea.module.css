@@ -1,0 +1,10 @@
+.projectsArea {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 100px;
+}

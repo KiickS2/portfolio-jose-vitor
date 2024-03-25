@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "RobotoReg";
+    src: url(assets/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: "RobotoLight";
+    src: url(assets/fonts/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: "RobotoBold";
+    src: url(assets/fonts/Roboto-BoldItalic.ttf);
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "RobotoLight";
+    font-size: 20px;
+}
+
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 910px;
+    max-width: 100%;
+    background-image: url('/abstract.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 1px 8px 10px black;
+    padding: 20px;
+}
+
+@media screen and (max-width: 550px) {
+    .banner {
+        max-height: 820px;
+    }
+}
