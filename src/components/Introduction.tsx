@@ -36,7 +36,7 @@ const Introduction = () => {
             />
           </a>
           <a
-            href="./documents/José Vitor Marques - Currículo.pdf"
+            href="./documents/Marques_de_Deus_Currículo_v2.pdf"
             download="José Vitor Marques - Currículo"
             title="Download do currículo"
           >

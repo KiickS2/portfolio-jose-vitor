@@ -19,9 +19,9 @@ const projects = [
     gitPath: "https://github.com/KiickS2/react-imc",
   },
   {
-    name: "Site E-commerce",
-    img: "images/market.png",
-    gitPath: "https://github.com/KiickS2/projeto_ecommerce",
+    name: "Agência Landing Page",
+    img: "images/agencia.png",
+    gitPath: "https://github.com/KiickS2/landingpage-nextjs",
   },
 ];
 
